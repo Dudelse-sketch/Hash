@@ -1,0 +1,7 @@
+Hello World
+This is a sample text for the C++ hashing laboratory work.
+It contains different letters, both uppercase and lowercase.
+The quick brown fox jumps over the lazy dog.
+Programming in C++ is interesting and useful.
+We need to count the frequency of each English letter.
+Aaa Bbb Ccc Ddd Eee
