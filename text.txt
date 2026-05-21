@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog. 
+This is a simple test text for the KMP algorithm. 
+Programming in C++ is fun and challenging. 
+The fox and the dog are common in such examples. 
+Another sentence with the word test and fox.
