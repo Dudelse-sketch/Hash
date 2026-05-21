@@ -1,0 +1,8 @@
+fox
+dog
+test
+C++
+quick
+programming
+sentence
+hello
